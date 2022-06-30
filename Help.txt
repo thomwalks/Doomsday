@@ -1,0 +1,7 @@
+HELP PAGE
+]]     [[
+
+big red GO button is to attach client into program (roblox)
+other button above big red GO button is to inject script into program (roblox)
+text box is to write or paste scripts found on interwebs
+options strip is coming soon
